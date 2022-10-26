@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aazizk
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Cloud and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI and ML
 - 📫 Reach me on khan.abdulaziz@gmail.com
